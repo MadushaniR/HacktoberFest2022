@@ -29,7 +29,7 @@ namespace Hactoberfest2022
                     break;
 
                 case '*':
-                    Console.WriteLine("Not yet implemented");
+                    Console.WriteLine(Calculations.Multiplication(num1, num2));
                     break;
 
                 case '/':
